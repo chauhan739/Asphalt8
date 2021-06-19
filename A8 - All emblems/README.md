@@ -1,4 +1,4 @@
-Specialthanks to DriverFunk fir the hardwork and providing these emblems
+Special thanks to DriverFunk for the hardwork and providing these emblems
 
 <p align="center">
    <img src="https://i.ibb.co/BBVNnMC/image.png" alt="DriverFunk">
